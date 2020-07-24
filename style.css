@@ -19,11 +19,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
 /* -----  google Font  -----*/
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
 
-
-.body{
-	background-color: #aeaeae;
-}
-
 .main {
 	 font-family: Roboto, sans-serif;
 	 font-size: 15px;
